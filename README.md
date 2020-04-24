@@ -3,5 +3,6 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of Proj_Criado is to ...
+O objetivo do Proj_Criado é mostrar como cria repositório... né
+
 
